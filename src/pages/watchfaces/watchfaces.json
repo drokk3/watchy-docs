@@ -695,4 +695,13 @@
         "ota_bin" : false,
         "version" : "1.0.0"
     }    
+    {
+        "id" : "78",
+        "name" : "Watchy Times",
+        "author" : "drokk",
+        "screenshot" : "https://raw.githubusercontent.com/drokk3/watchy-times/main/screenshot.gif",
+        "source" : "https://github.com/drokk3/watchy-times",
+        "ota_bin" : false,
+        "version" : "1.0.0"
+    }  
 ]
